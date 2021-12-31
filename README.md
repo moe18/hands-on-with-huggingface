@@ -1,1 +1,3 @@
-# hands-on-with-huggingface
+# Hands-on-With-Huggingface
+## Intro (Why should I read this)
+This repo will be a hands on way to learn the popular NLP library [Huggingface](https://huggingface.co/) while there are plenty of resources already online for example https://huggingface.co/course/chapter0/1?fw=tf that is well written and straight from hugging face themselves, so natruly the next question is why read mt guuid well my goal is to make a more hands on approach to learning this subject. I will do this by taking an example driven approach to this study guide, as well as put in examples you can try by yourself at the end of each chapter/section(I will also do the example myself incase you want to check your work and if you think your answer is better let me know, I am always looking for better ways to do things).
