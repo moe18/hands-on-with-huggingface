@@ -24,6 +24,12 @@ This repo will be a hands on way to learn the popular NLP library [Huggingface](
 ### Prerequisites <a name="Prerequisites"></a>
 This study guide assumes you know some basic machine learning and as well as some python, and you need to want to learn more about NLP/Huggingface. You should know how to make functions as well as the basics of neural networks.
 
+### What Will You Learn
+the goal of this guid is to teach you four main ideas:
+1. A basic understanding of NLP and HuggingFace and why they are so important 
+2. How to use HuggingFace's transformers
+3. How to fine tune a pretrained models
+
 ## The HuggingFace Landscape  <a name="The-HuggingFace-Landscape"></a>
 "The AI community building the future. Build, train and deploy state of the art models powered by the reference open source in machine learning." I got this quote from the home page of the HuggingFace website while this sounds nice and all in this chapter I will talk about what this actually means and what hugging face is and what their goals are and what use cases you can use them for.
 
