@@ -27,8 +27,9 @@ This study guide assumes you know some basic machine learning and as well as som
 ### What Will You Learn
 the goal of this guid is to teach you four main ideas:
 1. A basic understanding of NLP and HuggingFace and why they are so important 
-2. How to use HuggingFace's transformers
-3. How to fine tune a pretrained models
+2. How to build text based models not using HuggingFace
+3. How to use HuggingFace's transformers
+4. How to fine tune a pretrained models
 
 ## The HuggingFace Landscape  <a name="The-HuggingFace-Landscape"></a>
 "The AI community building the future. Build, train and deploy state of the art models powered by the reference open source in machine learning." I got this quote from the home page of the HuggingFace website while this sounds nice and all in this chapter I will talk about what this actually means and what hugging face is and what their goals are and what use cases you can use them for.
