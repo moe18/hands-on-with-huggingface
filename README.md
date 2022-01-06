@@ -32,8 +32,14 @@ the goal of this guid is to teach you four main ideas:
 4. How to fine tune a pretrained models
 
 ## The HuggingFace Landscape  <a name="The-HuggingFace-Landscape"></a>
-"The AI community building the future. Build, train and deploy state of the art models powered by the reference open source in machine learning." I got this quote from the home page of the HuggingFace website while this sounds nice and all in this chapter I will talk about what this actually means and what hugging face is and what their goals are and what use cases you can use them for.
+"The AI community building the future. Build, train and deploy state of the art models powered by the reference open source in machine learning." I got this quote from the home page of the HuggingFace website while this sounds nice and all it doesn't tell you what you can use hugging face for, so that's why I am here, the main use case of HuggingFace is using there pretrained models for NLP tasks they have many different type of text based models that are pre trained on millions of gigabytes of text data that would take you weeks if not months to train (depending on your machine). Lucky HuggingFace offers many free pretrained transformers that you can fine tune to any task you want, this has a few great benefits such as:
+  - It will take less time to train because it was already pretrained
+  - The results will probably be more robust 
+  - You don't have to spend a bunch of money training a new model
 
+
+### What is NLP
+NLP stands for natural language processing and it basically means using computers and programing to work with text data. The next question is what kind of things would we want to use NLP for, well there is a lot one common example is Siri, siri uses NLP to convert what you tell her into a language computers can understand (numbers). While there are a bunch of different use cases of NLP we will mostly focus on Classifying whole sentences, Classifying each word in a sentence, Generating text content, Extracting an answer from a text, and Generating a new sentence from an input text (if you dont get what all of these mean dont worry wee will go over it later). Learning all these methods will also help you be able to extract the info you learned here and reapply it to any NLP task you come by.
 
 
 
@@ -45,6 +51,7 @@ In this section we will build an end to end Huggingface project where you will l
 
 and after you finish reading this chapter you can try and do the exercises and test how well you understood the material 
 
+## NLP Models with Tensorflow (RNNs & LSTMs)
 
 ## Transformer models
 
